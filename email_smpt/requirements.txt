@@ -1,0 +1,7 @@
+Flask 
+pymongo 
+celery 
+redis
+DateTime
+postmarker
+python-dotenv
